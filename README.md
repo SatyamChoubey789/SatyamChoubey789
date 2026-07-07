@@ -1,138 +1,132 @@
-# <div align="center">Hi there, I'm Satyam Choubey 👋</div>
-
 <div align="center">
 
-### Software Engineer • System Architect • Founder • CTO
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=35&duration=3500&pause=1000&color=4F8EF7&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Satyam+Choubey;Software+Engineer;System+Architect;Founder+%26+CTO;Building+Scalable+Products"/>
 
-*"Building scalable software, cloud-native systems, and products that solve real-world problems."*
-
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120"/>
+<p>
+Building modern software, distributed systems, cloud-native infrastructure,
+and AI-powered applications.
+</p>
 
 </div>
 
----
+## 👨‍💻 About Me
 
-## 🚀 About Me
+I'm a Software Engineer passionate about building scalable systems that solve real-world problems.
 
-I'm a software engineer passionate about building scalable applications, distributed systems, and cloud-native platforms.
+Since starting my journey in 2018, I've focused on understanding not only how software is written but how modern systems are designed, deployed, and scaled.
 
-My journey began in **2018**, driven by curiosity—not just to learn programming, but to understand **how modern technology works behind the scenes.**
+My interests span:
 
-Today I work across software engineering, architecture, cloud infrastructure, and product development, helping transform ideas into reliable, production-ready products.
+- 🏗 System Design
+- ☁ Cloud Architecture
+- 🚀 Product Engineering
+- 🤖 Artificial Intelligence
+- 🔐 Backend Engineering
+- 📱 Full Stack Development
 
-### What I enjoy building
+## 🚀 Currently
 
-* ⚡ Scalable Backend Systems
-* ☁️ Cloud Native Applications
-* 🏗️ System Design & Architecture
-* 🤖 AI-Powered Applications
-* 📱 Full Stack Web Applications
-* 🚀 Startup Products
-* 🔐 Secure APIs & Authentication
-* 📊 Data Driven Platforms
+🔭 Building scalable ecommerce platforms
 
----
+🌱 Learning Spring Boot & Distributed Systems
 
-## 🌱 Currently
+👨‍💻 Exploring AI Engineering
 
-* 🔭 Building modern Ecommerce platforms
-* 🌱 Learning **Spring Boot**, **Java**, and advanced system architecture
-* 👯 Open to collaborating on ambitious open-source and startup projects
-* 💬 Ask me about **MERN Stack**, Backend Development, APIs, Cloud, and Architecture
+📖 Reading about System Design & Cloud Architecture
 
----
+🤝 Open to collaborations on ambitious startup products
 
-# 🛠 Tech Stack
-
-### Languages
-
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge\&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge\&logo=typescript)
-![Java](https://img.shields.io/badge/Java-black?style=for-the-badge\&logo=openjdk)
-![Python](https://img.shields.io/badge/Python-black?style=for-the-badge\&logo=python)
-![C++](https://img.shields.io/badge/C++-black?style=for-the-badge\&logo=cplusplus)
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-black?style=for-the-badge\&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge\&logo=nextdotjs)
-![Angular](https://img.shields.io/badge/Angular-black?style=for-the-badge\&logo=angular)
-![Vue](https://img.shields.io/badge/Vue-black?style=for-the-badge\&logo=vuedotjs)
-![Vite](https://img.shields.io/badge/Vite-black?style=for-the-badge\&logo=vite)
-
-### Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge\&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge\&logo=express)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-black?style=for-the-badge\&logo=springboot)
-![Django](https://img.shields.io/badge/Django-black?style=for-the-badge\&logo=django)
-
-### Databases
-
-![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge\&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge\&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge\&logo=mysql)
-![SQL Server](https://img.shields.io/badge/SQL_Server-black?style=for-the-badge\&logo=microsoftsqlserver)
-
-### Cloud & DevOps
-
-![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge\&logo=amazonaws)
-![Azure](https://img.shields.io/badge/Azure-black?style=for-the-badge\&logo=microsoftazure)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-black?style=for-the-badge\&logo=googlecloud)
-![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge\&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-black?style=for-the-badge\&logo=kubernetes)
-![Jenkins](https://img.shields.io/badge/Jenkins-black?style=for-the-badge\&logo=jenkins)
-![Nginx](https://img.shields.io/badge/Nginx-black?style=for-the-badge\&logo=nginx)
-
----
-
-# 📈 GitHub Analytics
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SatyamChoubey789&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatyamChoubey789&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SatyamChoubey789&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=SatyamChoubey789&theme=tokyonight&no-frame=true&margin-w=10"/>
-</p>
-
----
-
-## 🤝 Connect With Me
+## ⚙ Tech Stack
 
 <p align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> • <a href="https://x.com/SatyamChoubey77">X</a> • <a href="https://instagram.com/theghostguy777">Instagram</a> • <a href="https://medium.com/@satyamchoubey789">Medium</a> • <a href="https://stackoverflow.com/users/14882313">Stack Overflow</a> • <a href="https://github.com/SatyamChoubey789">GitHub</a>
+<img src="https://skillicons.dev/icons?i=js,ts,java,python,cpp"/>
+
+<img src="https://skillicons.dev/icons?i=react,next,nodejs,express,spring,django"/>
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres"/>
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,gcp,firebase"/>
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,nginx,jenkins,postman"/>
 
 </p>
 
----
+# 🚀 Featured Projects
 
-## 💭 Philosophy
+| Project | Description | Stack |
+|----------|-------------|-------|
+| Ecommerce Platform | Full-featured scalable ecommerce application | MERN |
+| AI Chat Platform | OpenAI-powered SaaS | Next.js + Node |
+| CMS | Enterprise Content Management | React + Spring |
+| Job Portal | Production Ready Platform | MERN |
 
-> I believe great software isn't defined by the amount of code written—it's defined by thoughtful architecture, clean engineering, scalable systems, and meaningful user experiences.
+# 📊 GitHub Stats
 
-Technology evolves every day, but strong engineering principles remain timeless.
+<p align="center">
 
-I enjoy building products that are reliable today and adaptable for tomorrow.
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=SatyamChoubey789&show_icons=true&theme=tokyonight&hide_border=true"/>
 
----
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatyamChoubey789&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=SatyamChoubey789&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+## 🐍 Contribution Graph
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/SatyamChoubey789/SatyamChoubey789/output/github-contribution-grid-snake-dark.svg">
+
+</p>
+
+# 🏆 Achievements
+
+🏅 Full Stack Engineer
+
+🏅 Cloud Enthusiast
+
+🏅 Open Source Contributor
+
+🏅 Startup Founder
+
+🏅 System Architecture Enthusiast
+
+🏅 AI Explorer
+
+# 🌍 Connect
+
+<p align="center">
+
+<a href="#">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="#">
+<img src="https://skillicons.dev/icons?i=twitter"/>
+</a>
+
+<a href="#">
+<img src="https://skillicons.dev/icons?i=instagram"/>
+</a>
+
+<a href="#">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+</p>
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+<h3>⭐ Thanks for visiting!</h3>
 
-*"Keep building. Keep learning. Keep shipping."*
+<i>"Build products that matter."</i>
+
+<img src="https://komarev.com/ghpvc/?username=SatyamChoubey789&style=for-the-badge&color=blue"/>
 
 </div>
-
